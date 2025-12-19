@@ -1,2 +1,3 @@
-# POWERBI-Sales-Analytics-Dashboard
-A Power BI sales analytics dashboard designed using XXX’s business context to visualize revenue performance, customer insights, product trends, and regional sales patterns to support data-driven decision making.
+This Power BI Sales Analytics Dashboard is built using XXX’s business context and real-world style commercial data to provide actionable insights into revenue performance, profitability, customer distribution, product sales, and regional market trends. By integrating datasets such as Sales Orders, Customers, Regions, and Products, the dashboard delivers interactive KPI tracking, trend analysis, and visual storytelling to support data-driven strategic decisions in pricing, operations, and market planning.
+
+本项目基于 XXX 业务场景与真实商业数据结构，使用 Power BI 构建了销售数据分析仪表盘，对营收表现、利润水平、客户分布、产品销售及区域市场趋势进行全面分析与可视化展示。通过整合销售订单、客户、区域与产品等数据源，仪表盘实现了可交互 KPI 监控、趋势洞察与数据可视化决策支持，帮助企业进行定价策略、运营优化与市场规划。
